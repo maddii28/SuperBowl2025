@@ -150,8 +150,8 @@ brand_keywords = {
 
 
 # Example YouTube video ID (replace with actual video ID)
-video_id = "BIgJO3Uk19w"
-api_key = "AIzaSyCjyfnbyeUZjIo9ZYa6DWBhXIbkIYId5Z0"
+video_id = "//"
+api_key = "//"
 
 # Scrape comments
 filtered_comments = get_youtube_comments(video_id, api_key, brand_keywords)
