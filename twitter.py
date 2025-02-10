@@ -4,9 +4,9 @@ import json
 import threading
 
 # Set your Twitter API credentials
-api_key = 'ws0xyFX8f2xINPnGxYAxRatcJ'
-api_secret_key = 'UdvYA6D1mH0PNSmKEy9CREqLD1oOEKARFXn44H5gfakg7HMzMn'
-bearer_token = 'AAAAAAAAAAAAAAAAAAAAAAqDywEAAAAAmH4Ibh9%2F74iVaX2uBQWNSAI3zIw%3DhvCsX9dB8dY6DnVDU45svbRPzT4OCzaZC8x3JbK6YNFdMDd070'
+api_key = '//'
+api_secret_key = '//'
+bearer_token = '//'
 
 # Authenticate using Tweepy
 client = tweepy.Client(bearer_token=bearer_token)

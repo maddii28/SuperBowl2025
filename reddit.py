@@ -4,8 +4,8 @@ from datetime import datetime
 
 # Initialize Reddit instance
 reddit = praw.Reddit(
-    client_id='cMRxXcK0CBj_A1kxUInHxA',
-    client_secret='GlW89Ij8y15du7l3WKRW5trfMYMsZQ',
+    client_id='//',
+    client_secret='//',
     user_agent = 'python:my_superbowl_ads_scraper:v1.0 (by u/Constant-Rip9231)'
 )
 
