@@ -1,4 +1,4 @@
-# **SuperBowl2025 Sentiment Analysis Dashboard**
+# **SuperBowl Sentiment Analysis Dashboard**
 
 This project aims to analyze Super Bowl 2025 commercial reactions and sentiments across platforms like **YouTube** and **Twitter**. The goal is to provide insights into public sentiment towards various brands based on user comments and sentiment analysis.
 
